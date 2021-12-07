@@ -1,15 +1,21 @@
 ## Обо мне:
-  * Люблю Вэб - :surf: сёрфить и :computer: разрабатывать
-  * Люблю изучать новые технологии
-  * Сейчас студент в Яндекс.Практикум
-  * Ищу работу в frontend
+  * :desktop_computer: Люблю Вэб - сёрфить и  разрабатывать :surfing_man:
+  * :robot: Люблю изучать новые технологии
+  * :man_student: Сейчас студент в Яндекс.Практикум
+  * :roll_eyes: Ищу работу в frontend
 
-## Мой стэк технологий:  
-<p align="center" display="flex" flex-direction="column">
-<img src="./img/html.svg" width="50" alt="HTML" />
-<img src="./img/css.svg" width="50" alt="CSS" />
-<img src="./img/sass.svg" width="50" alt="SASS" />
-<img src="./img/js.svg" width="50" alt="JS" />
+## Мой стэк технологий: 
+
+<img src="./img/js.svg" width="80" alt="JS" padding="0 20"/>
+<img src="./img/html.svg" width="70" alt="HTML" padding="0 20"/>
+<img src="./img/css.svg" width="70" alt="CSS" padding="0 20"/>
+<img src="./img/sass.svg" width="160" alt="SASS" padding="0 20"/>
+
+![html](./img/html.svg#cube)
+![css](./img/css.svg)
+
+<p align="left" display="flex" justifyContent="space-around" align-items="flex-end" >
+
 </p>
 
 <p align="center" display="flex" flex-direction="column">
