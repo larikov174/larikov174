@@ -1,0 +1,4 @@
+img[src*="#cube"] {
+   width:150px;
+   height:100px;
+}
