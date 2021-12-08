@@ -14,10 +14,12 @@
 
 ## Связаться со мной:
 [![Gmail](./img/gmail.svg)](mailto:larikov174@gmail.com)
-
 ##
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=onedark">
-    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=onedark" />
+  <a href="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=react#gh-dark-mode-only">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=react" />
+  </a>
+   <a href="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=default#gh-light-mode-only">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=default" />
   </a>
 </div>
