@@ -23,3 +23,7 @@
     <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=default" />
   </a>
 </div>
+
+
+![Profile views](https://gpvc.arturio.dev/larikov174)
+
