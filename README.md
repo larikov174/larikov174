@@ -25,9 +25,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/larikov174)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/TPV9DP0N4/CPMC6HQ1F/user_profile/U022HNBBUQY)
 
+##
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=larikov174&include_all_commits=true&count_private=true&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/larikov174/github-readme-stats)
 
-##
 [![codewars](https://www.codewars.com/users/larikov174/badges/small)](https://www.codewars.com/users/larikov174)
 
 ![Profile views](https://gpvc.arturio.dev/larikov174)
