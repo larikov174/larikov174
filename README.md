@@ -1,8 +1,7 @@
 ## Обо мне:
   * :desktop_computer: Люблю Вэб - сёрфить и  разрабатывать :surfing_man:
-  * :robot: Люблю изучать новые технологии
+  * :robot: Изучаю новые технологии
   * :art: Занимаюсь некоммерческими проектами в свободное время
-  * :roll_eyes: Ищу работу в frontend
   
 ## Мой стэк технологий: 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
